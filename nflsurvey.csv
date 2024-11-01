@@ -1,0 +1,514 @@
+Age,Gender,Team,Team_State,State,Country,Fan_Length,Attendance,Own_Jersey,Spent,Podcast,FF,Other_Sports,SB_Predict,Player
+26-30,Male,Las Vegas Raiders,Nevada,California,,6-9,Yes,Yes,$200-$299,Yes,Yes,Baseball,Buffalo Bills,Derek Carr
+41-50,Male,Pittsburgh Steelers,Pennsylvania,Pennsylvania,,25+,Yes,No,$50-$99,No,No,Baseball,Kansas City Chiefs,
+21-25,Female,Baltimore Ravens,Maryland,Other,Australia,3-5,No,Yes,$0-$49,Yes,Yes,"Cricket, Nrl",Baltimore Ravens,Mark Andrews
+21-25,Male,Pittsburgh Steelers,Pennsylvania,New Jersey,,10-14,Yes,No,$0-$49,Yes,Yes,Hockey,Kansas City Chiefs,Najee Harris
+36-40,Male,Baltimore Ravens,Maryland,Maryland,,25+,Yes,Yes,$0-$49,Yes,Yes,None,Buffalo Bills,Lamar Jackson
+16-20,Male,Detroit Lions,Michigan,Indiana,,6-9,Yes,Yes,$100-$199,No,Yes,Basketball,Baltimore Ravens,Amon-Ra St. Brown
+41-50,Male,Baltimore Ravens,Maryland,Virginia,,25+,Yes,Yes,$100-$199,Yes,Yes,None,Buffalo Bills,
+26-30,Male,Washington Commanders,Maryland,Florida,,25+,Yes,Yes,$0-$49,No,Yes,"Baseball,Basketball,Hockey,Tennis,Soccer",Buffalo Bills,Terry Mclaurin
+31-35,Male,Buffalo Bills,New York,New York,,25+,Yes,Yes,$50-$99,Yes,Yes,"Cycling, F1",Buffalo Bills,Gabe Davis
+21-25,Male,Detroit Lions,Michigan,California,,6-9,No,Yes,$0-$49,No,Yes,"Baseball,Basketball,Tennis,Soccer",Buffalo Bills,Jack Fox
+31-35,Male,New York Giants,New Jersey,Other,Ireland,10-14,No,Yes,$0-$49,Yes,Yes,"Basketball,Rugby, Soccer (Premier League), Pro Cycling",Buffalo Bills,Jj Watt
+26-30,Male,Washington Commanders,Maryland,Virginia,,15-19,Yes,Yes,$50-$99,Yes,Yes,None,Tampa Bay Buccaneers,Chase Young
+Under 16,Male,Denver Broncos,Colorado,Pennsylvania,,3-5,Yes,Yes,$100-$199,Yes,Yes,"Basketball,Golf",Buffalo Bills,Javonte Williams
+36-40,Male,San Francisco 49ers,California,Utah,,25+,Yes,Yes,$0-$49,No,Yes,"Basketball,Golf",Buffalo Bills,George Kittle
+36-40,Male,Los Angeles Rams,California,California,,15-19,Yes,Yes,$50-$99,No,Yes,"Baseball,Basketball",Los Angeles Rams,Aaron Donald
+36-40,Male,Denver Broncos,Colorado,Colorado,,20-24,Yes,Yes,$200-$299,No,No,"Basketball,Hockey",Buffalo Bills,Von Miller
+31-35,Male,Baltimore Ravens,Maryland,Other,Canada,0-2,No,Yes,$100-$199,No,Yes,Hockey,Buffalo Bills,Lamar Jackson
+41-50,Female,Las Vegas Raiders,Nevada,New Mexico,,25+,Yes,Yes,$0-$49,Yes,No,None,Buffalo Bills,Hunter Renfrow
+31-35,Male,Pittsburgh Steelers,Pennsylvania,Georgia,,25+,Yes,Yes,$200-$299,Yes,Yes,"Hockey,Soccer",Pittsburgh Steelers,Najee Harris
+51+,Male,Washington Commanders,Maryland,Florida,,25+,Yes,Yes,$0-$49,No,No,"Baseball,Golf",Buffalo Bills,Terry Mclaurin
+16-20,Male,Pittsburgh Steelers,Pennsylvania,Florida,,6-9,No,No,$0-$49,No,No,Lax,Pittsburgh Steelers,Minkah Fitzpatrick
+26-30,Male,Pittsburgh Steelers,Pennsylvania,Ohio,,20-24,Yes,Yes,$50-$99,Yes,Yes,"Hockey,Golf",Pittsburgh Steelers,Tj Watt
+31-35,Male,Pittsburgh Steelers,Pennsylvania,Pennsylvania,,15-19,Yes,Yes,$50-$99,No,No,"Baseball,Rugby",Pittsburgh Steelers,Tj Watt
+21-25,Male,Baltimore Ravens,Maryland,Virginia,,20-24,Yes,Yes,$0-$49,Yes,Yes,"Baseball,Basketball,Golf",Buffalo Bills,Lamar Jackson
+31-35,Male,Detroit Lions,Michigan,Pennsylvania,,20-24,Yes,Yes,$50-$99,Yes,Yes,Baseball,Buffalo Bills,Jamaal Williams
+41-50,Male,Pittsburgh Steelers,Pennsylvania,Iowa,,25+,Yes,Yes,$300-$499,Yes,Yes,"Golf,Soccer",Buffalo Bills,Tj Watt
+16-20,Male,Baltimore Ravens,Maryland,Maryland,,0-2,No,No,$0-$49,No,No,"Baseball,Basketball",Tampa Bay Buccaneers,Justin Tucker
+36-40,Male,Pittsburgh Steelers,Pennsylvania,Indiana,,25+,Yes,Yes,$50-$99,No,No,"Basketball,Soccer",Kansas City Chiefs,
+26-30,Male,Detroit Lions,Michigan,Michigan,,20-24,Yes,Yes,$300-$499,Yes,Yes,Basketball,Detroit Lions,Jamaal Williams
+21-25,Male,Pittsburgh Steelers,Pennsylvania,Maryland,,15-19,No,Yes,$100-$199,No,Yes,"Baseball,Basketball",Buffalo Bills,Tj Watt
+21-25,Male,Baltimore Ravens,Maryland,Indiana,,10-14,Yes,Yes,$0-$49,No,Yes,"Basketball,Hockey",Baltimore Ravens,Justin Tucker
+21-25,Male,Detroit Lions,Michigan,Michigan,,6-9,Yes,Yes,$100-$199,Yes,No,"Baseball,Hockey",Buffalo Bills,Justin Herbert
+26-30,Female,Detroit Lions,Michigan,Minnesota,,25+,Yes,Yes,$100-$199,No,Yes,"Baseball,Hockey",Buffalo Bills,
+21-25,Male,Detroit Lions,Michigan,Michigan,,6-9,No,Yes,$50-$99,Yes,Yes,"Baseball,Golf",Buffalo Bills,Amon-Ra St. Brown
+16-20,Male,Detroit Lions,Michigan,Michigan,,6-9,Yes,Yes,$0-$49,No,Yes,"Basketball,Hockey",Buffalo Bills,Lamar Jackson
+31-35,Male,Detroit Lions,Michigan,Michigan,,25+,Yes,Yes,$200-$299,Yes,No,None,Detroit Lions,Jamaal Williams
+31-35,Male,Pittsburgh Steelers,Pennsylvania,Pennsylvania,,15-19,Yes,Yes,$0-$49,Yes,Yes,"Baseball,Hockey,Golf",Buffalo Bills,Cam Heyward
+31-35,Male,Washington Commanders,Maryland,Other,Russia,3-5,No,No,$0-$49,Yes,No,None,Buffalo Bills,Aaron Rodgers
+26-30,Male,Baltimore Ravens,Maryland,Maryland,,10-14,Yes,Yes,$0-$49,Yes,Yes,None,Baltimore Ravens,Lamar Jackson
+21-25,Male,Washington Commanders,Maryland,North Carolina,,15-19,Yes,Yes,$50-$99,Yes,Yes,"Baseball,Basketball,Hockey",Buffalo Bills,Jonathan Allen
+51+,Male,Denver Broncos,Colorado,Colorado,,25+,Yes,No,$0-$49,No,Yes,Hockey,Buffalo Bills,
+16-20,Male,Denver Broncos,Colorado,Arkansas,,3-5,No,Yes,$50-$99,No,No,None,Denver Broncos,Russell Wilson
+Under 16,Male,Detroit Lions,Michigan,Michigan,,3-5,Yes,Yes,$100-$199,Yes,Yes,Basketball,Buffalo Bills,Josh Allen
+21-25,Male,Pittsburgh Steelers,Pennsylvania,Other,UK,0-2,No,No,$0-$49,No,No,Soccer,Buffalo Bills,
+21-25,Female,Baltimore Ravens,Maryland,New Jersey,,3-5,No,Yes,$200-$299,Yes,No,Baseball,Buffalo Bills,
+26-30,Male,Denver Broncos,Colorado,Other,Mexico,20-24,Yes,Yes,$50-$99,Yes,Yes,"Basketball,Soccer",Buffalo Bills,Russell Wilson
+31-35,Male,Los Angeles Rams,California,California,,3-5,Yes,Yes,$1000+,Yes,Yes,"Baseball,Soccer",Los Angeles Rams,Cooper Kupp
+31-35,Male,San Francisco 49ers,California,California,,25+,Yes,Yes,$100-$199,No,No,None,San Francisco 49ers,Nick Bosa
+51+,Male,Denver Broncos,Colorado,Colorado,,6-9,Yes,No,$0-$49,Yes,No,None,Buffalo Bills,Von Miller
+41-50,Male,Pittsburgh Steelers,Pennsylvania,North Carolina,,25+,Yes,Yes,$200-$299,No,No,Basketball,Pittsburgh Steelers,Tj Watt
+31-35,Male,Pittsburgh Steelers,Pennsylvania,Alabama,,20-24,Yes,No,$0-$49,No,No,"Baseball,Soccer",Buffalo Bills,Najee Harris
+51+,Male,Pittsburgh Steelers,Pennsylvania,Pennsylvania,,25+,Yes,Yes,$200-$299,Yes,No,Basketball,Pittsburgh Steelers,Tj Watt
+36-40,Male,Washington Commanders,Maryland,Maryland,,25+,Yes,Yes,$0-$49,Yes,No,"Baseball,Basketball,Tennis,Golf",Buffalo Bills,Kirk Cousins
+26-30,Male,Chicago Bears,Illinois,Colorado,,25+,Yes,Yes,$1000+,Yes,Yes,"Baseball,Basketball,Hockey,Golf",Buffalo Bills,Josh Allen
+31-35,Male,Detroit Lions,Michigan,Michigan,,10-14,Yes,No,$100-$199,Yes,Yes,None,Los Angeles Rams,Jamaal Williams
+16-20,Male,Baltimore Ravens,Maryland,Maryland,,3-5,No,No,$0-$49,No,No,Baseball,Buffalo Bills,Lamar Jackson
+16-20,Male,Detroit Lions,Michigan,Michigan,,6-9,Yes,Yes,$100-$199,Yes,Yes,"Baseball,Basketball",Buffalo Bills,Aidan Hutchinson
+26-30,Male,Baltimore Ravens,Maryland,South Carolina,,10-14,No,No,$0-$49,Yes,Yes,"Basketball,Tennis,Cricket",Baltimore Ravens,Lamar Jackson
+51+,Male,Detroit Lions,Michigan,California,,25+,Yes,Yes,$300-$499,No,No,"Basketball,Hockey,Soccer",Buffalo Bills,Matt Stafford
+26-30,Male,Los Angeles Rams,California,Other,Germany,6-9,Yes,Yes,$100-$199,Yes,No,Soccer,Los Angeles Rams,Aaron Donald
+21-25,Male,Denver Broncos,Colorado,Colorado,,3-5,Yes,Yes,$100-$199,Yes,No,Hockey,Buffalo Bills,Von Miller
+26-30,Male,Baltimore Ravens,Maryland,Colorado,,10-14,No,Yes,$0-$49,No,No,"Baseball,Basketball,Hockey,Mma",Baltimore Ravens,Mark Andrews
+51+,Male,Pittsburgh Steelers,Pennsylvania,Georgia,,25+,Yes,Yes,$100-$199,Yes,No,Hockey,Buffalo Bills,Tj Watt
+Under 16,Female,Pittsburgh Steelers,Pennsylvania,Pennsylvania,,3-5,Yes,No,$0-$49,Yes,Yes,"Baseball,Hockey",Tampa Bay Buccaneers,Najee Harris
+41-50,Male,Denver Broncos,Colorado,Colorado,,25+,Yes,Yes,$100-$199,No,No,Hockey,Denver Broncos,Von Miller
+21-25,Male,Denver Broncos,Colorado,Georgia,,10-14,Yes,Yes,$300-$499,Yes,Yes,Basketball,Buffalo Bills,Pat Surtain Ii
+36-40,Male,Los Angeles Rams,California,Florida,,20-24,No,Yes,$1000+,No,Yes,None,Los Angeles Rams,Aaron Donald
+31-35,Male,Los Angeles Rams,California,Texas,,20-24,No,Yes,$50-$99,Yes,No,"Baseball,Basketball",Los Angeles Rams,Aaron Donald
+31-35,Male,Pittsburgh Steelers,Pennsylvania,Ohio,,25+,No,Yes,$100-$199,Yes,Yes,None,Buffalo Bills,Najee Harris
+26-30,Male,Denver Broncos,Colorado,Colorado,,25+,Yes,Yes,$0-$49,No,Yes,Baseball,Buffalo Bills,Justin Simmons
+26-30,Male,Pittsburgh Steelers,Pennsylvania,North Carolina,,15-19,No,No,$0-$49,No,No,Basketball,Cincinnati Bengals,Cam Heyward
+41-50,Male,Denver Broncos,Colorado,Hawaii,,25+,No,No,$0-$49,No,No,Basketball,Buffalo Bills,Justin Simmons
+21-25,Male,Detroit Lions,Michigan,Michigan,,10-14,No,No,$0-$49,Yes,Yes,Hockey,Buffalo Bills,Amon-Ra St. Brown
+26-30,Male,Buffalo Bills,New York,Utah,,25+,Yes,Yes,$100-$199,Yes,Yes,"Hockey,Golf",Buffalo Bills,Josh Allen
+36-40,Male,Minnesota Vikings,Minnesota,Washington,,25+,Yes,Yes,$0-$49,No,Yes,Mma,Buffalo Bills,Adam Thielen
+21-25,Male,New Orleans Saints,Louisiana,Georgia,,3-5,No,Yes,$100-$199,Yes,Yes,None,New Orleans Saints,Cameron Jordan
+31-35,Prefer not to say,Minnesota Vikings,Minnesota,Prefer not to answer,,20-24,Yes,No,$0-$49,Yes,No,"Baseball,Olympic Curling",Buffalo Bills,Justin Jefferson
+21-25,Male,Minnesota Vikings,Minnesota,Iowa,,10-14,Yes,Yes,$0-$49,No,Yes,None,Minnesota Vikings,Justin Jefferson
+26-30,Male,Tampa Bay Buccaneers,Florida,Florida,,20-24,Yes,Yes,$0-$49,Yes,Yes,Baseball,Tampa Bay Buccaneers,
+51+,Male,Minnesota Vikings,Minnesota,Minnesota,,25+,Yes,Yes,$200-$299,Yes,No,None,Buffalo Bills,Justin Jefferson
+36-40,Male,Tampa Bay Buccaneers,Florida,Washington,,25+,Yes,Yes,$100-$199,Yes,No,None,Tampa Bay Buccaneers,Mike Evans
+16-20,Male,Seattle Seahawks,Washington,Washington,,6-9,No,Yes,$100-$199,No,No,Soccer,Cincinnati Bengals,Tyler Lockett
+41-50,Male,New England Patriots,Massachusetts,Colorado,,25+,Yes,No,$0-$49,No,No,"Baseball,Basketball,Hockey,Tennis",New England Patriots,Jack Jones
+41-50,Male,Los Angeles Chargers,California,California,,25+,Yes,Yes,$100-$199,Yes,No,"Baseball,Boxing",Buffalo Bills,Justin Herbert
+36-40,Male,Denver Broncos,Colorado,Colorado,,20-24,Yes,Yes,$100-$199,No,No,Hockey,Denver Broncos,Justin Simmons
+36-40,Male,Minnesota Vikings,Minnesota,Oregon,,25+,Yes,No,$0-$49,Yes,Yes,"Basketball,Golf",Minnesota Vikings,Justin Tucker
+26-30,Male,Los Angeles Chargers,California,California,,25+,Yes,Yes,$100-$199,Yes,Yes,"Baseball,Basketball,Golf",Buffalo Bills,Justin Herbert
+26-30,Male,Los Angeles Chargers,California,Washington,,6-9,Yes,Yes,$1000+,Yes,No,"Baseball,Basketball,Ultimate Frisbee",Los Angeles Chargers,Derwin James
+31-35,Male,Tampa Bay Buccaneers,Florida,Colorado,,25+,Yes,Yes,$0-$49,No,Yes,Hockey,Tampa Bay Buccaneers,Mike Evans
+16-20,Male,Minnesota Vikings,Minnesota,Arizona,,10-14,Yes,Yes,$50-$99,No,Yes,"Baseball,Basketball,Hockey,Golf",Buffalo Bills,Justin Jefferson
+26-30,Male,Tennessee Titans,Tennessee,Tennessee,,20-24,Yes,Yes,$100-$199,Yes,Yes,None,Tennessee Titans,Derrick Henry
+21-25,Male,Minnesota Vikings,Minnesota,Minnesota,,15-19,Yes,Yes,$0-$49,Yes,Yes,"Baseball,Basketball",Buffalo Bills,Justin Jefferson
+31-35,Male,Minnesota Vikings,Minnesota,California,,25+,Yes,Yes,Prefer not to answer,Yes,Yes,Hockey,Minnesota Vikings,
+16-20,Male,Los Angeles Chargers,California,Other,UK,0-2,No,No,$0-$49,No,No,Soccer,Los Angeles Chargers,Justin Herbert
+16-20,Male,Miami Dolphins,Florida,Wisconsin,,15-19,Yes,Yes,$50-$99,Yes,Yes,"Baseball,Basketball,Hockey,Soccer",Miami Dolphins,Jevon Holland
+36-40,Male,Los Angeles Chargers,California,Missouri,,10-14,Yes,Yes,$200-$299,Yes,Yes,None,Los Angeles Chargers,Justin Herbert
+31-35,Male,Minnesota Vikings,Minnesota,Virginia,,20-24,Yes,Yes,$0-$49,No,Yes,None,Buffalo Bills,Justin Jefferson
+21-25,Male,Los Angeles Chargers,California,California,,15-19,Yes,Yes,$100-$199,Yes,Yes,"Basketball,Golf",Buffalo Bills,Justin Herbert
+21-25,Male,Las Vegas Raiders,Nevada,Florida,,0-2,No,No,$0-$49,No,Yes,"Baseball,Hockey",New Orleans Saints,
+21-25,Male,Los Angeles Chargers,California,California,,15-19,Yes,Yes,$100-$199,No,Yes,Basketball,Los Angeles Chargers,Derwin James
+31-35,Male,Dallas Cowboys,Texas,Texas,,20-24,Yes,Yes,$200-$299,No,Yes,None,Buffalo Bills,Micah Parsons
+26-30,Male,Cincinnati Bengals,Ohio,Pennsylvania,,10-14,No,Yes,$0-$49,Yes,Yes,Basketball,Buffalo Bills,Joe Burrow
+41-50,Male,Miami Dolphins,Florida,West Virginia,,25+,Yes,Yes,$100-$199,No,Yes,None,Buffalo Bills,Jevon Holland
+26-30,Male,Tampa Bay Buccaneers,Florida,Florida,,15-19,Yes,Yes,$0-$49,No,No,"Mma, Boxing, Martial Arts In General",Buffalo Bills,
+26-30,Male,Detroit Lions,Michigan,Michigan,,15-19,Yes,Yes,$100-$199,No,Yes,None,Buffalo Bills,Matt Stafford
+31-35,Male,Tampa Bay Buccaneers,Florida,Connecticut,,20-24,No,Yes,$50-$99,No,Yes,None,Buffalo Bills,Devin White
+21-25,Male,Dallas Cowboys,Texas,Virginia,,6-9,No,Yes,$0-$49,No,Yes,None,Dallas Cowboys,
+21-25,Male,Buffalo Bills,New York,New York,,6-9,No,No,$0-$49,No,Yes,"Hockey,Soccer",Buffalo Bills,Josh Allen
+36-40,Male,Seattle Seahawks,Washington,Washington,,6-9,Yes,Yes,$300-$499,Yes,Yes,None,Buffalo Bills,Michael Dickson
+41-50,Male,New Orleans Saints,Louisiana,Louisiana,,25+,No,Yes,$50-$99,Yes,Yes,None,Buffalo Bills,Cameron Jordan
+26-30,Male,Buffalo Bills,New York,New York,,15-19,Yes,Yes,$200-$299,Yes,No,F1 And Rugby,Buffalo Bills,Josh Allen
+26-30,Male,Minnesota Vikings,Minnesota,Minnesota,,25+,Yes,Yes,$0-$49,Yes,No,Basketball,Buffalo Bills,Jj Watt
+26-30,Male,Los Angeles Chargers,California,Utah,,15-19,No,Yes,$300-$499,Yes,Yes,Basketball,Los Angeles Chargers,
+16-20,Male,Denver Broncos,Colorado,Colorado,,10-14,Yes,Yes,$50-$99,No,Yes,Hockey,Buffalo Bills,Pat Surtain Ii
+31-35,Male,Minnesota Vikings,Minnesota,Other,Scotland,6-9,Yes,Yes,$0-$49,Yes,Yes,Golf,Buffalo Bills,Adam Thielen
+21-25,Male,Los Angeles Chargers,California,Other,UK,6-9,No,Yes,$0-$49,Yes,No,"Basketball,Golf,Soccer, Formula 1, Mma,",Los Angeles Chargers,Derwin James Jr
+36-40,Male,Denver Broncos,Colorado,New York,,25+,Yes,Yes,$0-$49,No,No,Hockey,Buffalo Bills,Von Miller
+26-30,Male,Los Angeles Chargers,California,Illinois,,15-19,No,Yes,$0-$49,Yes,Yes,None,Baltimore Ravens,Derwin James
+21-25,Male,Minnesota Vikings,Minnesota,Minnesota,,10-14,Yes,Yes,$50-$99,No,No,"Baseball,Basketball",Minnesota Vikings,Justin Jefferson
+21-25,Male,Tampa Bay Buccaneers,Florida,Connecticut,,0-2,No,No,$50-$99,No,Yes,None,Buffalo Bills,Tom Brady
+21-25,Male,Miami Dolphins,Florida,Florida,,6-9,No,Yes,$0-$49,Yes,Yes,"Baseball,Basketball,Tennis,Golf",Buffalo Bills,
+31-35,Male,Detroit Lions,Michigan,Florida,,25+,Yes,No,$0-$49,No,Yes,"Baseball,Basketball",Buffalo Bills,Matt Stafford
+26-30,Male,Minnesota Vikings,Minnesota,Idaho,,20-24,No,Yes,$0-$49,Yes,Yes,Basketball,Buffalo Bills,Stefon Diggs
+16-20,Male,Miami Dolphins,Florida,North Carolina,,3-5,No,Yes,$100-$199,No,Yes,Tennis,Miami Dolphins,
+36-40,Male,Los Angeles Chargers,California,Florida,,10-14,Yes,Yes,$0-$49,No,No,Baseball,Los Angeles Chargers,
+16-20,Male,Minnesota Vikings,Minnesota,Other,UK,6-9,Yes,Yes,$200-$299,Yes,Yes,Soccer,Buffalo Bills,Justin Jefferson
+36-40,Male,Denver Broncos,Colorado,Colorado,,25+,Yes,Yes,$200-$299,Yes,Yes,"Baseball,Hockey,Tennis,Soccer",Denver Broncos,Von Miller
+16-20,Male,Washington Commanders,Maryland,Maryland,,10-14,Yes,Yes,$500-$999,No,Yes,"Baseball,Basketball,Hockey",Buffalo Bills,Stefon Diggs
+21-25,Male,Los Angeles Chargers,California,Other,Canada,0-2,No,Yes,$300-$499,Yes,Yes,None,Los Angeles Chargers,Justin Herbert
+16-20,Male,Los Angeles Rams,California,California,,6-9,Yes,Yes,$50-$99,No,Yes,Basketball,Los Angeles Rams,Cooper Kupp
+26-30,Male,Tampa Bay Buccaneers,Florida,Alabama,,15-19,No,Yes,$0-$49,No,No,"Baseball,Basketball,Golf",Tampa Bay Buccaneers,Tom Brady
+21-25,Male,Denver Broncos,Colorado,Kentucky,,20-24,No,Yes,$0-$49,No,Yes,"Basketball,Hockey,Golf",Buffalo Bills,Joe Burrow
+16-20,Male,New England Patriots,Massachusetts,Massachusetts,,10-14,Yes,Yes,$100-$199,No,Yes,"Basketball,Hockey",Los Angeles Chargers,
+21-25,Male,Miami Dolphins,Florida,Massachusetts,,15-19,Yes,Yes,$100-$199,Yes,Yes,Basketball,Denver Broncos,Jaylen Waddle
+41-50,Male,Pittsburgh Steelers,Pennsylvania,Ohio,,15-19,Yes,No,$0-$49,No,No,"Baseball,Basketball,Hockey",Buffalo Bills,
+31-35,Male,Los Angeles Chargers,California,California,,15-19,Yes,Yes,$300-$499,No,No,"Basketball,Boxing/Mma",Buffalo Bills,Justin Herbert
+36-40,Male,Tampa Bay Buccaneers,Florida,Other,Canada,10-14,Yes,No,$0-$49,No,Yes,"Baseball,Hockey",Tampa Bay Buccaneers,Mike Evans
+36-40,Male,Los Angeles Chargers,California,Texas,,25+,No,Yes,$0-$49,Yes,No,None,Los Angeles Chargers,Jj Watt
+36-40,Male,Miami Dolphins,Florida,Florida,,25+,No,Yes,$0-$49,No,No,Hockey,Buffalo Bills,Jaylen Waddle
+16-20,Male,Minnesota Vikings,Minnesota,Minnesota,,10-14,Yes,Yes,$0-$49,No,Yes,"Baseball,Basketball,Hockey",Buffalo Bills,Justin Jefferson
+16-20,Male,Los Angeles Chargers,California,Texas,,3-5,No,No,$0-$49,Yes,Yes,"Baseball,Basketball",Los Angeles Chargers,Justin Herbert
+26-30,Male,Seattle Seahawks,Washington,Washington,,20-24,Yes,No,$0-$49,Yes,Yes,"Basketball,Hockey,Soccer, Gaelic Football, Motor Racing",Buffalo Bills,Ja'Marr Chase
+31-35,Male,Seattle Seahawks,Washington,Washington,,10-14,No,No,$0-$49,No,Yes,Basketball,Buffalo Bills,Christian Mccaffrey
+51+,Female,Miami Dolphins,Florida,Georgia,,25+,Yes,No,$0-$49,Yes,Yes,Tennis,Buffalo Bills,Tua Tagovailoa
+41-50,Male,Tampa Bay Buccaneers,Florida,Oregon,,25+,Yes,Yes,$200-$299,No,No,None,Tampa Bay Buccaneers,Mike Evans
+31-35,Male,Cincinnati Bengals,Ohio,Florida,,25+,Yes,Yes,$100-$199,Yes,Yes,Basketball,Cincinnati Bengals,Joe Mixon
+Under 16,Male,Minnesota Vikings,Minnesota,North Dakota,,3-5,No,No,$0-$49,No,No,"Baseball,Basketball,Hockey,Soccer",Tampa Bay Buccaneers,Adam Thielen
+21-25,Male,Cincinnati Bengals,Ohio,Texas,,10-14,Yes,Yes,$0-$49,No,Yes,None,Cincinnati Bengals,Joe Burrow
+21-25,Male,New Orleans Saints,Louisiana,Minnesota,,10-14,Yes,Yes,$0-$49,No,Yes,"Baseball,Basketball",Tennessee Titans,Cameron Jordan
+51+,Male,Denver Broncos,Colorado,North Carolina,,25+,Yes,Yes,$100-$199,No,No,None,Denver Broncos,Von Miller
+31-35,Male,Minnesota Vikings,Minnesota,Oregon,,10-14,Yes,Yes,$0-$49,Yes,No,"Baseball,Basketball,Hockey",Buffalo Bills,Linval Joseph
+31-35,Male,Baltimore Ravens,Maryland,Maryland,,15-19,Yes,Yes,$200-$299,Yes,Yes,"Basketball,Cricket",Baltimore Ravens,Lamar Jackson
+31-35,Male,Tampa Bay Buccaneers,Florida,Other,Canada,10-14,Yes,Yes,$200-$299,Yes,No,Basketball,Tampa Bay Buccaneers,Tom Brady
+41-50,Male,Dallas Cowboys,Texas,Michigan,,15-19,Yes,Yes,$0-$49,Yes,No,"Basketball,Tennis",Buffalo Bills,Micah Parsons
+51+,,Carolina Panthers,North Carolina,Other,Burkina Faso,25+,No,Yes,$1000+,Yes,Yes,"Tennis,Golf,Hurley. Cricket.",New York Jets,Deshaun Watson
+21-25,Male,Seattle Seahawks,Washington,Other,Germany,6-9,No,Yes,$200-$299,Yes,Yes,"Baseball,Soccer, F1",Buffalo Bills,Tyler Lockett
+41-50,Male,Pittsburgh Steelers,Pennsylvania,Florida,,25+,Yes,Yes,$0-$49,No,Yes,"Hockey,Soccer, Mma",Los Angeles Chargers,Cam Heyward
+41-50,Male,Cincinnati Bengals,Ohio,Kentucky,,15-19,Yes,Yes,$200-$299,Yes,No,"Baseball,Basketball",Cincinnati Bengals,Joe Burrow
+26-30,Male,Cincinnati Bengals,Ohio,Other,UK,3-5,No,Yes,$100-$199,Yes,No,"Basketball,Hockey,Association Football",Cincinnati Bengals,Joe Burrow
+16-20,Male,Los Angeles Chargers,California,California,,3-5,No,No,$0-$49,No,No,Basketball,Los Angeles Chargers,Derwin James
+41-50,Male,Minnesota Vikings,Minnesota,Florida,,25+,No,No,$0-$49,No,Yes,"Baseball,Basketball,Hockey",Minnesota Vikings,Eric Kendricks
+21-25,Male,Los Angeles Chargers,California,California,,20-24,Yes,Yes,$100-$199,No,Yes,"Baseball,F1, Indycar",Buffalo Bills,Austin Ekeler
+Under 16,Male,Minnesota Vikings,Minnesota,Minnesota,,6-9,Yes,Yes,$0-$49,No,Yes,"Baseball,Basketball",Buffalo Bills,Justin Jefferson
+21-25,Non-binary,Tennessee Titans,Tennessee,Illinois,,6-9,Yes,Yes,$0-$49,No,Yes,Basketball,Tennessee Titans,
+16-20,Male,Tampa Bay Buccaneers,Florida,New York,,3-5,No,Yes,$100-$199,No,Yes,"Baseball,Basketball",Buffalo Bills,Josh Allen
+16-20,Male,Los Angeles Chargers,California,Other,Canada,3-5,Yes,Yes,$100-$199,No,Yes,"Hockey,Tennis",Los Angeles Chargers,Derwin James
+51+,Male,Pittsburgh Steelers,Pennsylvania,Pennsylvania,,25+,Yes,Yes,$50-$99,No,No,"Baseball,Hockey",Tampa Bay Buccaneers,Tj Watt
+41-50,Male,Los Angeles Rams,California,Other,The Netherlands,20-24,No,Yes,$0-$49,No,No,"Baseball,Basketball,Tennis,Soccer",Tampa Bay Buccaneers,Cooper Kupp
+36-40,Male,Miami Dolphins,Florida,Pennsylvania,,25+,Yes,Yes,$50-$99,Yes,Yes,"Baseball,Basketball,Hockey,Golf,Soccer",Tampa Bay Buccaneers,Gabe Davis
+21-25,Male,Los Angeles Chargers,California,California,,3-5,Yes,No,$0-$49,Yes,Yes,Golf,Buffalo Bills,Justin Jefferson
+31-35,Male,Seattle Seahawks,Washington,Other,New Zealand,10-14,No,Yes,$50-$99,Yes,No,Rugby,Buffalo Bills,Tyler Lockett
+21-25,Male,Tennessee Titans,Tennessee,Ohio,,10-14,Yes,Yes,$0-$49,No,Yes,Hockey,Tennessee Titans,
+31-35,Prefer not to say,Seattle Seahawks,Washington,Washington,,6-9,No,No,$0-$49,No,No,"Baseball,Basketball",Seattle Seahawks,Geno Smith
+41-50,Male,Minnesota Vikings,Minnesota,Washington,,25+,Yes,Yes,$0-$49,Yes,Yes,"Baseball,Basketball,Hockey,Tennis,Golf",Minnesota Vikings,Justin Jefferson
+31-35,Male,Los Angeles Chargers,California,Other,Sweden,15-19,Yes,Yes,$0-$49,No,Yes,None,Green Bay Packers,Justin Herbert
+16-20,Male,Cincinnati Bengals,Ohio,Ohio,,10-14,Yes,Yes,$200-$299,Yes,Yes,"Baseball,Hockey",Cincinnati Bengals,Joe Burrow
+41-50,Male,Baltimore Ravens,Maryland,Pennsylvania,,20-24,Yes,No,$0-$49,Yes,Yes,"Baseball,Hockey,Formula 1",Baltimore Ravens,Lamar Jackson
+26-30,Male,Los Angeles Chargers,California,Florida,,15-19,Yes,Yes,$0-$49,Yes,Yes,"Basketball,Hockey,Mma",Los Angeles Chargers,Keenan Allen
+31-35,Male,Detroit Lions,Michigan,Indiana,,20-24,Yes,Yes,$100-$199,No,Yes,None,Buffalo Bills,Frank Ragnow
+16-20,Male,Pittsburgh Steelers,Pennsylvania,Virginia,,6-9,No,Yes,$50-$99,No,Yes,"Hockey,Tennis",Buffalo Bills,Tj Watt
+26-30,Male,Minnesota Vikings,Minnesota,Minnesota,,3-5,No,Yes,Prefer not to answer,Yes,No,"Baseball,Basketball",Kansas City Chiefs,Cj Ham
+31-35,Male,Miami Dolphins,Florida,New Mexico,,6-9,No,Yes,$0-$49,No,Yes,Soccer,Buffalo Bills,Christian Wilkins
+26-30,Male,New Orleans Saints,Louisiana,Other,Norway,6-9,No,No,$50-$99,No,No,None,New Orleans Saints,Cameron Jordan
+51+,Male,Seattle Seahawks,Washington,Washington,,25+,No,No,$0-$49,No,No,Golf,Buffalo Bills,
+31-35,Male,Miami Dolphins,Florida,Other,UK,15-19,Yes,Yes,$300-$499,No,Yes,Motorsport,Los Angeles Chargers,Derwin James
+Under 16,Male,New Orleans Saints,Louisiana,Other,Canada,3-5,No,No,$0-$49,Yes,Yes,Hockey,Buffalo Bills,Cameron Jordan
+26-30,Male,New England Patriots,Massachusetts,Massachusetts,,10-14,No,No,$0-$49,No,Yes,"Baseball,Soccer",Buffalo Bills,Mac Jones
+26-30,Male,Dallas Cowboys,Texas,Florida,,10-14,Yes,Yes,$100-$199,No,Yes,Basketball,Dallas Cowboys,
+31-35,Female,Miami Dolphins,Florida,Massachusetts,,25+,Yes,Yes,$50-$99,No,Yes,"Basketball,Hockey",Buffalo Bills,Jevon Holland
+26-30,Male,Minnesota Vikings,Minnesota,Michigan,,25+,Yes,Yes,Prefer not to answer,Yes,Yes,Hockey,Minnesota Vikings,Cj Ham
+31-35,Male,Minnesota Vikings,Minnesota,Alaska,,15-19,Yes,Yes,$0-$49,Yes,Yes,Baseball,Los Angeles Chargers,Kirk Cousins
+21-25,Male,Los Angeles Chargers,California,Texas,,15-19,Yes,Yes,$200-$299,Yes,Yes,"Baseball,Basketball",Buffalo Bills,Justin Herbert
+26-30,Male,Denver Broncos,Colorado,Colorado,,25+,Yes,Yes,$0-$49,No,Yes,"Hockey,Tennis,Golf",Denver Broncos,Von Miller
+31-35,Male,Dallas Cowboys,Texas,Michigan,,25+,Yes,Yes,$50-$99,No,Yes,"Baseball,Hockey,Golf",Dallas Cowboys,Micah Parsons
+Under 16,Male,New Orleans Saints,Louisiana,New York,,0-2,No,No,$0-$49,Yes,Yes,None,Kansas City Chiefs,Patrick Mahomes
+41-50,Male,New Orleans Saints,Louisiana,Texas,,20-24,Yes,No,$100-$199,No,Yes,Hockey,New Orleans Saints,Alvin Kamara
+36-40,Male,Tennessee Titans,Tennessee,Illinois,,6-9,Yes,No,$0-$49,Yes,No,"Baseball,Basketball,Hockey",Tennessee Titans,Derrick Henry
+16-20,Male,Los Angeles Chargers,California,California,,6-9,No,Yes,$0-$49,No,No,Soccer,Los Angeles Chargers,Justin Herbert
+36-40,Male,Tampa Bay Buccaneers,Florida,Colorado,,25+,Yes,Yes,$100-$199,No,Yes,"Basketball,Hockey",Tampa Bay Buccaneers,Mike Evans
+41-50,Male,Cincinnati Bengals,Ohio,Other,Canada,25+,Yes,Yes,$0-$49,Yes,Yes,Basketball,Cincinnati Bengals,Joe Burrow
+21-25,Male,Pittsburgh Steelers,Pennsylvania,Pennsylvania,,15-19,Yes,Yes,$200-$299,No,Yes,Basketball,Pittsburgh Steelers,
+21-25,Male,Tennessee Titans,Tennessee,Tennessee,,3-5,Yes,Yes,$0-$49,No,Yes,"Basketball,Hockey,Tennis,Golf",Tennessee Titans,Jeffrey Simmons
+26-30,Male,New England Patriots,Massachusetts,Maryland,,10-14,Yes,Yes,$0-$49,No,Yes,None,New England Patriots,Mac Jones
+31-35,Male,Pittsburgh Steelers,Pennsylvania,Ohio,,20-24,Yes,Yes,$200-$299,Yes,Yes,None,Buffalo Bills,Tj Watt
+21-25,Male,Minnesota Vikings,Minnesota,Minnesota,,6-9,Yes,Yes,$0-$49,Yes,Yes,None,Buffalo Bills,Harrison Smith
+21-25,Male,Pittsburgh Steelers,Pennsylvania,Other,Canada,10-14,Yes,No,$100-$199,Yes,Yes,"Hockey,Ufc",Los Angeles Chargers,Tj Watt
+41-50,Male,Minnesota Vikings,Minnesota,Minnesota,,25+,Yes,Yes,$0-$49,No,No,"Baseball,Hockey",Buffalo Bills,Garrett Bradbury
+31-35,Male,New England Patriots,Massachusetts,Massachusetts,,15-19,Yes,Yes,$0-$49,No,Yes,"Baseball,Basketball,Hockey,Tennis,Golf,Soccer, Mma, Boxing, Spikeball ",Las Vegas Raiders,Christian Barmore
+26-30,Male,Los Angeles Chargers,California,California,,15-19,Yes,Yes,$500-$999,No,Yes,Basketball,Los Angeles Chargers,Justin Herbert
+16-20,Male,Los Angeles Chargers,California,California,,6-9,Yes,No,$0-$49,No,No,None,San Francisco 49ers,
+21-25,Male,Seattle Seahawks,Washington,Other,Canada,0-2,No,No,$0-$49,No,No,"Hockey,Motorsports",Tampa Bay Buccaneers,Dk Metcalf
+36-40,Male,Pittsburgh Steelers,Pennsylvania,Pennsylvania,,25+,Yes,Yes,$200-$299,No,Yes,Hockey,Buffalo Bills,Mason Rudolph
+Under 16,Male,Seattle Seahawks,Washington,Utah,,6-9,No,Yes,$0-$49,No,Yes,Basketball,Las Vegas Raiders,Bobby Wagner
+21-25,Male,Dallas Cowboys,Texas,Texas,,20-24,Yes,Yes,$0-$49,No,Yes,"Basketball,Golf,Soccer",Buffalo Bills,
+41-50,Male,New Orleans Saints,Louisiana,Florida,,10-14,Yes,Yes,$0-$49,No,Yes,Basketball,Buffalo Bills,
+Under 16,Male,Cincinnati Bengals,Ohio,Arizona,,3-5,No,Yes,$0-$49,Yes,Yes,"Baseball,Basketball,Hockey,Tennis",Cincinnati Bengals,Joe Sheisty
+26-30,Male,New England Patriots,Massachusetts,Illinois,,15-19,No,No,$0-$49,Yes,No,"Baseball,Basketball,Hockey,Tennis",Buffalo Bills,Tom Brady
+21-25,Male,Los Angeles Chargers,California,Arizona,,10-14,No,Yes,$100-$199,Yes,Yes,"Baseball,Soccer",Buffalo Bills,Justin Herbert
+16-20,Male,Los Angeles Chargers,California,California,,6-9,No,No,$0-$49,Yes,No,"Baseball,Basketball,Soccer",Buffalo Bills,Keenan Allen
+31-35,Male,Seattle Seahawks,Washington,Oregon,,15-19,No,Yes,$0-$49,No,Yes,Baseball,Buffalo Bills,Dk Metcalf
+31-35,Male,Seattle Seahawks,Washington,Washington,,20-24,Yes,Yes,$0-$49,Yes,Yes,"Baseball,Basketball,Mma",Buffalo Bills,Poona Ford
+26-30,Female,Cincinnati Bengals,Ohio,Ohio,,10-14,Yes,No,$0-$49,No,No,"Baseball,Basketball,Soccer",Buffalo Bills,
+26-30,Male,Miami Dolphins,Florida,Florida,,20-24,Yes,Yes,$0-$49,No,Yes,"Baseball,Basketball,Tennis,Golf,Esports",Buffalo Bills,Xavien Howard
+21-25,Male,Los Angeles Chargers,California,California,,20-24,Yes,Yes,$100-$199,No,No,Basketball,Los Angeles Chargers,Justin Herbert
+21-25,Male,Minnesota Vikings,Minnesota,Kansas,,15-19,Yes,Yes,$50-$99,Yes,Yes,Basketball,Buffalo Bills,Justin Jefferson
+51+,Male,Miami Dolphins,Florida,West Virginia,,25+,Yes,Yes,$200-$299,No,No,"Baseball,Hockey,Golf",Miami Dolphins,Jaylen Waddle
+31-35,Male,Tampa Bay Buccaneers,Florida,Florida,,20-24,Yes,Yes,$50-$99,Yes,Yes,Hockey,Tampa Bay Buccaneers,Lavonte David
+26-30,Male,Los Angeles Chargers,California,California,,15-19,Yes,Yes,$200-$299,Yes,Yes,None,Buffalo Bills,
+36-40,Male,Detroit Lions,Michigan,Michigan,,15-19,Yes,Yes,$0-$49,Yes,No,None,Kansas City Chiefs,Frank Ragnow
+36-40,Male,Detroit Lions,Michigan,Michigan,,0-2,No,No,$0-$49,Yes,No,"Basketball,Golf,Formula 1 Racing",Buffalo Bills,Amon-Ra St. Brown
+26-30,Male,Baltimore Ravens,Maryland,Maryland,,25+,Yes,Yes,$0-$49,Yes,Yes,Basketball,Baltimore Ravens,Lamar Jackson
+26-30,Male,Washington Commanders,Maryland,Other,Washington Dc,20-24,Yes,Yes,$0-$49,No,Yes,"Baseball,Hockey,Golf",Washington Commanders,
+31-35,Male,Los Angeles Rams,California,Minnesota,,15-19,Yes,Yes,$0-$49,No,Yes,Baseball,Minnesota Vikings,John Johnson Iii
+51+,Male,Dallas Cowboys,Texas,Other,UK,25+,Yes,Yes,$0-$49,Yes,Yes,None,Buffalo Bills,Dak Prescott
+26-30,Male,Tampa Bay Buccaneers,Florida,Other,UK,3-5,Yes,Yes,$0-$49,No,No,"Hockey,Golf",Cincinnati Bengals,Vita Vea
+36-40,Male,Minnesota Vikings,Minnesota,Minnesota,,20-24,Yes,Yes,$200-$299,Yes,Yes,"Baseball,Basketball",Buffalo Bills,Justin Jefferson
+31-35,Male,Cincinnati Bengals,Ohio,Ohio,,20-24,Yes,Yes,$500-$999,No,Yes,None,Cincinnati Bengals,Joe Burrow
+26-30,Male,Minnesota Vikings,Minnesota,Prefer not to answer,,15-19,No,Yes,$0-$49,Yes,No,None,Kansas City Chiefs,Harrison Smith
+31-35,Male,Los Angeles Chargers,California,California,,25+,No,Yes,$500-$999,No,Yes,"Baseball,Hockey",Los Angeles Chargers,Justin Herbert
+26-30,Male,Cincinnati Bengals,Ohio,Ohio,,25+,Yes,Yes,$0-$49,Yes,Yes,"Baseball,Basketball,Climbing",Cincinnati Bengals,Kevin Huber
+21-25,Male,Minnesota Vikings,Minnesota,Minnesota,,10-14,No,Yes,$0-$49,Yes,Yes,None,Cincinnati Bengals,
+31-35,Female,Cincinnati Bengals,Ohio,Ohio,,25+,Yes,Yes,$100-$199,No,No,"Basketball,Golf,Volleyball",Cincinnati Bengals,Joe Burrow
+31-35,Male,Minnesota Vikings,Minnesota,Minnesota,,20-24,Yes,No,$0-$49,No,Yes,"Basketball,Hockey,Tennis,Soccer, Disc Golf",Tampa Bay Buccaneers,Teddy Bridgewater
+31-35,Male,Los Angeles Chargers,California,California,,20-24,Yes,Yes,$500-$999,No,Yes,"Basketball,Hockey",Los Angeles Chargers,Justin Herbert
+16-20,Male,Tampa Bay Buccaneers,Florida,Florida,,3-5,Yes,Yes,$200-$299,Yes,Yes,Hockey,Tampa Bay Buccaneers,
+31-35,Male,Cincinnati Bengals,Ohio,Ohio,,20-24,Yes,Yes,$200-$299,Yes,No,Basketball,Cincinnati Bengals,Joe Burrow
+31-35,Male,Minnesota Vikings,Minnesota,Wisconsin,,25+,Yes,Yes,$0-$49,Yes,No,None,Minnesota Vikings,Harrison Smith
+36-40,Male,Minnesota Vikings,Minnesota,Texas,,15-19,Yes,No,$0-$49,No,No,"Baseball,Basketball,Hockey",Minnesota Vikings,
+21-25,Male,Minnesota Vikings,Minnesota,Other,UK,6-9,No,Yes,$0-$49,Yes,No,"Golf,Soccer",Buffalo Bills,Justin Jefferson
+26-30,Male,New England Patriots,Massachusetts,Massachusetts,,15-19,No,Yes,$0-$49,Yes,Yes,"Baseball,Basketball,Hockey,Golf",Denver Broncos,Tom Brady
+16-20,Male,Detroit Lions,Michigan,Michigan,,3-5,Yes,No,$0-$49,No,No,"Baseball,Basketball",Kansas City Chiefs,Deandre Swift
+41-50,Male,Cincinnati Bengals,Ohio,Ohio,,25+,Yes,Yes,$300-$499,Yes,Yes,"Baseball,Basketball,Hockey,Auto Racing",Cincinnati Bengals,Joe Burrow
+36-40,Male,Baltimore Ravens,Maryland,Maryland,,20-24,No,Yes,$0-$49,No,No,Basketball,Buffalo Bills,Lamar Jackson
+21-25,Male,Pittsburgh Steelers,Pennsylvania,Ohio,,20-24,Yes,Yes,$100-$199,Yes,No,"Baseball,Hockey",Pittsburgh Steelers,Najee Harris
+41-50,Male,Minnesota Vikings,Minnesota,Tennessee,,15-19,Yes,Yes,$0-$49,Yes,Yes,Basketball,Buffalo Bills,Justin Jefferson
+36-40,Male,Los Angeles Chargers,California,California,,20-24,Yes,Yes,$200-$299,No,Yes,None,Los Angeles Chargers,Justin Herbert
+26-30,Male,Denver Broncos,Colorado,Oklahoma,,15-19,Yes,Yes,$200-$299,No,No,"Baseball,Basketball,Hockey",Buffalo Bills,Von Miller
+Under 16,Male,Minnesota Vikings,Minnesota,Other,Canada,3-5,No,No,$50-$99,No,Yes,Hockey,Buffalo Bills,Adam Thielen
+31-35,Male,Los Angeles Rams,California,Idaho,,10-14,Yes,Yes,$200-$299,No,Yes,"Baseball,Basketball,Golf,Formula 1",Los Angeles Rams,Aaron Donald
+26-30,Male,Miami Dolphins,Florida,Other,Germany,10-14,No,Yes,$0-$49,No,Yes,Golf,Buffalo Bills,Xavien Howard
+31-35,Male,Miami Dolphins,Florida,Other,UK,15-19,Yes,Yes,$100-$199,Yes,Yes,Hockey,Buffalo Bills,Jevon Holland
+31-35,Male,Los Angeles Chargers,California,California,,25+,Yes,Yes,$500-$999,No,Yes,"Baseball,Hockey,Golf",Los Angeles Chargers,Justin Herbert
+Under 16,Male,Minnesota Vikings,Minnesota,Illinois,,6-9,No,Yes,$0-$49,Yes,Yes,"Baseball,Basketball",Buffalo Bills,Justin Jefferson
+31-35,Male,Detroit Lions,Michigan,California,,25+,No,Yes,$0-$49,Yes,Yes,"Baseball,Basketball,Hockey",Buffalo Bills,Malcolm Rodriguez
+26-30,Male,Miami Dolphins,Florida,New Jersey,,25+,Yes,Yes,$100-$199,No,Yes,Hockey,Denver Broncos,Jevon Holland
+21-25,Male,Cincinnati Bengals,Ohio,Ohio,,15-19,Yes,Yes,$100-$199,Yes,Yes,"Baseball,Hockey",Buffalo Bills,Tee Higgins
+26-30,Male,Seattle Seahawks,Washington,Missouri,,15-19,No,Yes,$0-$49,No,Yes,"Baseball,Basketball",Buffalo Bills,Bobby Wagner
+41-50,Male,Buffalo Bills,New York,Texas,,25+,No,No,$50-$99,No,No,Wrestling,Buffalo Bills,Josh Allen
+31-35,Male,Minnesota Vikings,Minnesota,Texas,,10-14,Yes,Yes,$0-$49,Yes,Yes,None,Minnesota Vikings,Cordarrelle Patterson
+31-35,Male,Minnesota Vikings,Minnesota,Minnesota,,25+,Yes,Yes,$0-$49,No,No,"Hockey,Golf",Minnesota Vikings,Tom Brady
+21-25,Male,Los Angeles Chargers,California,California,,15-19,Yes,Yes,$200-$299,Yes,Yes,"Baseball,Basketball",Buffalo Bills,Justin Herbert
+51+,Male,Minnesota Vikings,Minnesota,Minnesota,,25+,Yes,Yes,$0-$49,Yes,Yes,None,Los Angeles Chargers,Justin Jefferson
+16-20,Male,Minnesota Vikings,Minnesota,Other,UK,3-5,Yes,Yes,$0-$49,No,Yes,Formula 1,Buffalo Bills,Justin Jefferson
+51+,Male,Cincinnati Bengals,Ohio,Ohio,,25+,Yes,No,$100-$199,No,Yes,Golf,Cincinnati Bengals,Joe Burrow
+31-35,Male,Minnesota Vikings,Minnesota,Utah,,25+,Yes,Yes,$50-$99,Yes,Yes,"Baseball,Hockey,Sumo",Minnesota Vikings,Eric Kendricks
+51+,Female,Seattle Seahawks,Washington,Washington,,6-9,Yes,No,$0-$49,No,No,None,Buffalo Bills,Tyler Lockett
+21-25,Male,Denver Broncos,Colorado,Colorado,,20-24,Yes,Yes,$500-$999,No,No,"Baseball,Basketball,Hockey,Tennis,Golf",Denver Broncos,Pat Surtain Ii
+16-20,Male,Seattle Seahawks,Washington,Utah,,15-19,Yes,Yes,$50-$99,No,Yes,"Baseball,Basketball",Buffalo Bills,
+31-35,Male,Cincinnati Bengals,Ohio,Ohio,,25+,Yes,Yes,$300-$499,No,Yes,"Baseball,Basketball,Hockey",Cincinnati Bengals,Ja'Marr Chase
+26-30,Male,Miami Dolphins,Florida,Florida,,25+,Yes,Yes,$0-$49,Yes,Yes,Golf,Buffalo Bills,Jaylen Waddle
+16-20,Male,Cincinnati Bengals,Ohio,North Carolina,,10-14,Yes,Yes,$200-$299,Yes,Yes,Basketball,Cincinnati Bengals,Joe Burrow
+26-30,Male,Detroit Lions,Michigan,Illinois,,15-19,Yes,No,$50-$99,No,Yes,Baseball,Buffalo Bills,Amon-Ra St. Brown
+21-25,Male,Detroit Lions,Michigan,Michigan,,3-5,Yes,Yes,$200-$299,No,No,None,Buffalo Bills,Jared Goff
+26-30,Male,Minnesota Vikings,Minnesota,Minnesota,,15-19,Yes,Yes,$50-$99,No,Yes,"Baseball,Basketball,Hockey,Tennis",Kansas City Chiefs,Justin Jefferson
+31-35,Female,New England Patriots,Massachusetts,Florida,,20-24,No,No,$50-$99,No,No,None,Buffalo Bills,Mac Jones
+51+,Male,Minnesota Vikings,Minnesota,Minnesota,,25+,Yes,Yes,$200-$299,No,No,Hockey,Buffalo Bills,Justin Jefferson
+31-35,Male,Miami Dolphins,Florida,Virginia,,20-24,No,Yes,$200-$299,No,Yes,"Baseball,Basketball",Buffalo Bills,Tua Tagovailoa
+21-25,Male,Baltimore Ravens,Maryland,Maryland,,10-14,Yes,Yes,$0-$49,Yes,Yes,"Baseball,Hockey",Buffalo Bills,Lamar Jackson
+21-25,Male,New England Patriots,Massachusetts,Massachusetts,,15-19,Yes,Yes,$100-$199,No,No,"Baseball,Basketball,Hockey,Tennis",New England Patriots,Tom Brady
+31-35,Male,Cincinnati Bengals,Ohio,Other,Canada,20-24,Yes,Yes,$50-$99,No,Yes,"Baseball,Hockey,Golf",Cincinnati Bengals,Joe Burrow
+21-25,Male,Cincinnati Bengals,Ohio,Wisconsin,,6-9,No,Yes,$0-$49,No,Yes,None,Buffalo Bills,Ja'Marr Chase
+26-30,Male,New England Patriots,Massachusetts,South Dakota,,10-14,Yes,Yes,$0-$49,No,Yes,None,Buffalo Bills,Justin Herbert
+36-40,Male,Dallas Cowboys,Texas,Kentucky,,25+,Yes,Yes,$0-$49,Yes,Yes,"Basketball,Formula 1",Dallas Cowboys,Micah Parsons
+26-30,Male,Tampa Bay Buccaneers,Florida,Florida,,15-19,No,Yes,$500-$999,No,No,Soccer,Tampa Bay Buccaneers,
+36-40,Male,Detroit Lions,Michigan,Michigan,,25+,Yes,Yes,$100-$199,Yes,Yes,"Baseball,Hockey,Tennis,Golf,Soccer",Buffalo Bills,Russell Wilson
+41-50,Female,Seattle Seahawks,Washington,Washington,,10-14,Yes,Yes,$500-$999,No,No,Baseball,Buffalo Bills,Joe Burrow
+26-30,Male,Pittsburgh Steelers,Pennsylvania,Pennsylvania,,20-24,Yes,Yes,$0-$49,No,No,Hockey,Buffalo Bills,Tj Watt
+51+,Male,Los Angeles Chargers,California,Florida,,25+,Yes,Yes,$50-$99,No,No,"Baseball,Basketball,Hockey",Denver Broncos,Justin Herbert
+36-40,Male,New England Patriots,Massachusetts,Massachusetts,,20-24,Yes,Yes,$300-$499,Yes,No,None,Los Angeles Chargers,Mac Jones
+21-25,Male,Tennessee Titans,Tennessee,Tennessee,,10-14,No,No,$100-$199,No,No,"Baseball,Basketball",Tennessee Titans,
+16-20,Male,Dallas Cowboys,Texas,Texas,,15-19,Yes,Yes,$100-$199,No,No,None,Dallas Cowboys,
+21-25,Male,Minnesota Vikings,Minnesota,Illinois,,20-24,Yes,Yes,$0-$49,No,Yes,None,Baltimore Ravens,Justin Jefferson
+16-20,Male,Atlanta Falcons,Georgia,Pennsylvania,,3-5,No,Yes,$0-$49,Yes,Yes,Baseball,Buffalo Bills,Tj Watt
+31-35,Female,Las Vegas Raiders,Nevada,California,,3-5,Yes,Yes,$300-$499,No,Yes,None,Las Vegas Raiders,Darren Waller
+21-25,Male,Pittsburgh Steelers,Pennsylvania,Pennsylvania,,15-19,No,Yes,$0-$49,No,Yes,"Baseball,Basketball,Mma/Ufc",Buffalo Bills,Tj Watt
+31-35,Male,Los Angeles Chargers,California,Arizona,,25+,Yes,Yes,$500-$999,No,Yes,"Basketball,Mma",Los Angeles Chargers,Keenan Allen
+31-35,Male,Seattle Seahawks,Washington,Utah,,6-9,Yes,Yes,$50-$99,Yes,Yes,Basketball,Buffalo Bills,Dk Metcalf
+31-35,Male,Minnesota Vikings,Minnesota,Minnesota,,10-14,No,Yes,$50-$99,No,Yes,Judo,Minnesota Vikings,Adam Thielen
+26-30,Male,Dallas Cowboys,Texas,Tennessee,,15-19,Yes,Yes,$0-$49,Yes,Yes,None,Buffalo Bills,Micah Parsons
+21-25,Male,Minnesota Vikings,Minnesota,California,,20-24,Yes,Yes,$0-$49,Yes,Yes,Basketball,Minnesota Vikings,
+21-25,Male,Pittsburgh Steelers,Pennsylvania,Illinois,,20-24,Yes,Yes,$0-$49,No,Yes,Tennis,Tampa Bay Buccaneers,Tj Watt
+16-20,Male,Baltimore Ravens,Maryland,Maryland,,3-5,Yes,Yes,$50-$99,No,No,Baseball,Arizona Cardinals,
+26-30,Male,Pittsburgh Steelers,Pennsylvania,Tennessee,,15-19,Yes,Yes,$100-$199,No,Yes,Basketball,Buffalo Bills,
+26-30,Male,Minnesota Vikings,Minnesota,Other,The Netherlands,6-9,No,Yes,$100-$199,No,No,"Soccer, F1",Minnesota Vikings,Justin Jefferson
+41-50,Male,Miami Dolphins,Florida,California,,25+,Yes,Yes,$50-$99,No,No,"Baseball,Basketball,Hockey",Kansas City Chiefs,
+31-35,Prefer not to say,Tampa Bay Buccaneers,Florida,Florida,,25+,Yes,No,$0-$49,No,Yes,Hockey,Tampa Bay Buccaneers,
+36-40,Male,Seattle Seahawks,Washington,Washington,,25+,Yes,Yes,$0-$49,Yes,No,"Baseball,Basketball",Seattle Seahawks,
+26-30,Male,Minnesota Vikings,Minnesota,Wisconsin,,15-19,Yes,Yes,$200-$299,No,Yes,"Baseball,Basketball",Buffalo Bills,Justin Jefferson
+16-20,Male,Dallas Cowboys,Texas,Oklahoma,,3-5,No,Yes,$0-$49,Yes,Yes,"Baseball,Basketball",Dallas Cowboys,Dak Prescott
+41-50,Male,Minnesota Vikings,Minnesota,North Carolina,,25+,No,No,$0-$49,No,No,Hockey,Buffalo Bills,Harrison Smith
+36-40,Male,Cincinnati Bengals,Ohio,Indiana,,25+,Yes,Yes,$1000+,Yes,No,"Baseball,Basketball,Ufc, Boxing",Buffalo Bills,Joe Burrow
+26-30,Male,New Orleans Saints,Louisiana,North Dakota,,6-9,No,Yes,$0-$49,Yes,No,Baseball,Buffalo Bills,Demario Davis
+21-25,Male,Tennessee Titans,Tennessee,California,,15-19,Yes,Yes,$50-$99,No,Yes,Baseball,Buffalo Bills,
+26-30,Male,Los Angeles Chargers,California,Colorado,,15-19,Yes,Yes,$50-$99,No,Yes,"Baseball,Basketball,Hockey",Los Angeles Chargers,Derwin James
+31-35,Male,Seattle Seahawks,Washington,West Virginia,,25+,Yes,Yes,$100-$199,No,Yes,"Hockey,F1, Formula Drift",Buffalo Bills,Larry Fitzgerald
+36-40,Male,New England Patriots,Massachusetts,Rhode Island,,25+,Yes,Yes,$300-$499,Yes,Yes,"Baseball,Basketball,Golf,Soccer",New England Patriots,Mac Jones
+21-25,Male,Minnesota Vikings,Minnesota,Minnesota,,15-19,Yes,Yes,$0-$49,Yes,No,"Basketball,Hockey",Minnesota Vikings,Justin Jefferson
+21-25,Male,Baltimore Ravens,Maryland,Maryland,,10-14,Yes,Yes,$100-$199,No,Yes,Baseball,Tampa Bay Buccaneers,Lamar Jackson
+31-35,Male,Miami Dolphins,Florida,Texas,,25+,Yes,Yes,$200-$299,Yes,Yes,"Baseball,Basketball,Hockey",Los Angeles Chargers,
+36-40,Male,Dallas Cowboys,Texas,New Mexico,,25+,Yes,Yes,$300-$499,No,No,"Basketball,Tennis,Soccer",Dallas Cowboys,Dak Prescott
+36-40,Male,Pittsburgh Steelers,Pennsylvania,Colorado,,25+,Yes,Yes,$200-$299,Yes,Yes,"Baseball,Hockey",Buffalo Bills,Cam Heyward
+31-35,Male,Los Angeles Chargers,California,California,,10-14,Yes,Yes,$100-$199,No,Yes,None,Los Angeles Chargers,Justin Herbert
+16-20,Male,Cincinnati Bengals,Ohio,Indiana,,6-9,Yes,Yes,$0-$49,No,Yes,Baseball,Cincinnati Bengals,Evan Mcpherson
+31-35,Male,Los Angeles Chargers,California,California,,20-24,Yes,Yes,$100-$199,No,No,"Baseball,Basketball,Tennis,Golf,Soccer",Los Angeles Chargers,Justin Herbert
+31-35,Male,Tennessee Titans,Tennessee,Other,Canada,15-19,Yes,No,$0-$49,Yes,Yes,Esport,Tennessee Titans,Kevin Byard
+21-25,Male,Seattle Seahawks,Washington,Other,South Africa,6-9,No,No,$0-$49,Yes,Yes,"Baseball,Golf,Soccer, F1, Rugby, Cricket",Buffalo Bills,Rashaad Penny
+Under 16,Male,New England Patriots,Massachusetts,Massachusetts,,25+,Yes,Yes,$1000+,Yes,Yes,,Washington Commanders,Deshaun Watson
+21-25,Male,Pittsburgh Steelers,Pennsylvania,Texas,,15-19,Yes,Yes,$1000+,No,Yes,"Baseball,Basketball",Buffalo Bills,Minkah Fitzpatrick
+31-35,Male,Los Angeles Rams,California,California,,15-19,Yes,Yes,$200-$299,Yes,Yes,"Baseball,Basketball,Hockey,Golf",Los Angeles Rams,Cooper Kupp
+36-40,Male,Atlanta Falcons,Georgia,Georgia,,25+,Yes,Yes,$500-$999,No,No,None,Atlanta Falcons,Kyle Pitts
+26-30,Male,Pittsburgh Steelers,Pennsylvania,Pennsylvania,,15-19,Yes,No,$100-$199,Yes,Yes,None,Pittsburgh Steelers,Tj Watt
+21-25,Male,Atlanta Falcons,Georgia,North Carolina,,10-14,Yes,Yes,$0-$49,No,Yes,Basketball,Buffalo Bills,
+26-30,Male,Detroit Lions,Michigan,Michigan,,10-14,Yes,Yes,$0-$49,Yes,Yes,None,Buffalo Bills,Malcolm Rodriguez
+16-20,Male,Atlanta Falcons,Georgia,Georgia,,6-9,No,No,$0-$49,Yes,No,Basketball,Buffalo Bills,Jared Bernhardt
+16-20,Male,Detroit Lions,Michigan,Missouri,,3-5,Yes,No,$0-$49,Yes,Yes,None,Buffalo Bills,Justin Jefferson
+31-35,Male,Miami Dolphins,Florida,Arkansas,,3-5,Yes,Yes,$0-$49,No,Yes,None,Buffalo Bills,Aaron Rodgers
+16-20,Male,New England Patriots,Massachusetts,Connecticut,,10-14,No,Yes,$50-$99,No,Yes,"Basketball,Hockey,Sailing",Buffalo Bills,Julio Jones
+36-40,Male,Cincinnati Bengals,Ohio,Ohio,,25+,Yes,Yes,$0-$49,Yes,Yes,"Baseball,Basketball,Hockey,Tennis",Cincinnati Bengals,Evan Mcpherson
+21-25,Male,Detroit Lions,Michigan,Florida,,6-9,Yes,Yes,$0-$49,Yes,Yes,Basketball,Los Angeles Rams,Matt Stafford
+36-40,Male,New England Patriots,Massachusetts,New York,,25+,Yes,Yes,$50-$99,No,Yes,"Baseball,Basketball,Hockey,Soccer, Auto Racing",Buffalo Bills,Devin Mccourty
+41-50,Male,Miami Dolphins,Florida,Florida,,25+,Yes,Yes,$300-$499,Yes,No,"Basketball,Jiujitsu",Buffalo Bills,Tua Tagovailoa
+36-40,Male,Washington Commanders,Maryland,New Hampshire,,20-24,Yes,Yes,$100-$199,Yes,Yes,"Baseball,Basketball,Hockey,Tennis",Buffalo Bills,Terry Mclaurin
+21-25,Male,Cincinnati Bengals,Ohio,Ohio,,20-24,Yes,Yes,$100-$199,Yes,Yes,"Baseball,Basketball",Cincinnati Bengals,Joe Burrow
+21-25,Male,Los Angeles Chargers,California,Illinois,,3-5,No,No,$0-$49,Yes,Yes,"Baseball,Basketball",Buffalo Bills,Justin Herbert
+26-30,Male,Los Angeles Chargers,California,California,,0-2,Yes,Yes,$300-$499,Yes,No,Baseball,Buffalo Bills,Justin Herbert
+36-40,Male,Minnesota Vikings,Minnesota,Texas,,10-14,Yes,Yes,$0-$49,No,Yes,"Basketball,Hockey,Tennis,Golf",Minnesota Vikings,
+26-30,Male,Minnesota Vikings,Minnesota,Minnesota,,20-24,No,No,$0-$49,Yes,No,None,Buffalo Bills,Adam Thielen
+31-35,Male,Baltimore Ravens,Maryland,Virginia,,20-24,Yes,Yes,$0-$49,No,Yes,"Baseball,Basketball,Hockey",Buffalo Bills,Lamar Jackson
+51+,Male,Detroit Lions,Michigan,Kentucky,,25+,No,No,$0-$49,Yes,No,"Baseball,Basketball,Hockey",Buffalo Bills,Amon-Ra St. Brown
+36-40,Male,Minnesota Vikings,Minnesota,New Mexico,,25+,Yes,Yes,$100-$199,No,Yes,F1,Minnesota Vikings,Harrison Smith
+21-25,Female,Dallas Cowboys,Texas,Texas,,20-24,Yes,Yes,$100-$199,No,Yes,Baseball,Buffalo Bills,Dak Prescott
+16-20,Male,Los Angeles Chargers,California,Other,Australia,6-9,No,Yes,$0-$49,No,No,Basketball,Buffalo Bills,
+41-50,Female,Miami Dolphins,Florida,Florida,,25+,Yes,Yes,$0-$49,Yes,No,None,Miami Dolphins,Jevon Holland
+31-35,Male,Denver Broncos,Colorado,Washington,,25+,Yes,Yes,$200-$299,Yes,Yes,Baseball,Buffalo Bills,Von Miller
+21-25,Male,Minnesota Vikings,Minnesota,Iowa,,20-24,Yes,Yes,$0-$49,No,Yes,Tennis,Buffalo Bills,Justin Jefferson
+26-30,Male,Los Angeles Rams,California,California,,6-9,Yes,Yes,$500-$999,No,No,"Baseball,Basketball,Hockey",Los Angeles Rams,Cooper Kupp
+26-30,Male,Los Angeles Chargers,California,California,,15-19,Yes,No,$0-$49,Yes,Yes,"Baseball,Soccer",Buffalo Bills,Justin Herbert
+Under 16,Male,Kansas City Chiefs,Missouri,Arkansas,,3-5,Yes,No,$100-$199,No,Yes,"Basketball,Hockey",Kansas City Chiefs,Patrick Mahomes
+16-20,Male,Miami Dolphins,Florida,Kentucky,,0-2,Yes,Yes,$100-$199,Yes,Yes,"Baseball,Basketball",Los Angeles Rams,Tua Tagovailoa
+26-30,Male,Minnesota Vikings,Minnesota,Other,Ireland,3-5,Yes,Yes,$200-$299,Yes,No,"Hurling, Gaelic Football And Formula 1",Minnesota Vikings,
+16-20,Male,Miami Dolphins,Florida,Florida,,15-19,Yes,Yes,$0-$49,Yes,Yes,"Basketball,Golf",Buffalo Bills,Tua Tagovailoa
+41-50,Male,Miami Dolphins,Florida,California,,25+,Yes,Yes,$0-$49,Yes,Yes,None,Miami Dolphins,Javon Holland
+Under 16,Male,Dallas Cowboys,Texas,South Carolina,,3-5,No,Yes,$50-$99,No,No,Basketball,Buffalo Bills,Ceedee Lamb
+36-40,Male,Minnesota Vikings,Minnesota,Illinois,,15-19,Yes,Yes,$50-$99,Yes,Yes,None,Minnesota Vikings,
+Under 16,Male,Denver Broncos,Colorado,North Carolina,,6-9,No,Yes,$0-$49,No,No,"Baseball,Basketball",Denver Broncos,Von Miller
+16-20,Male,Detroit Lions,Michigan,Michigan,,6-9,No,Yes,$100-$199,Yes,Yes,"Baseball,Basketball,Hockey",San Francisco 49ers,Malcolm Rodriguez
+31-35,Male,Los Angeles Chargers,California,California,,6-9,Yes,Yes,$50-$99,Yes,Yes,"Baseball,Golf",Los Angeles Chargers,Justin Herbert
+36-40,Male,Pittsburgh Steelers,Pennsylvania,Ohio,,20-24,Yes,Yes,$100-$199,No,Yes,Hockey,Buffalo Bills,Josh Allen
+21-25,Male,Pittsburgh Steelers,Pennsylvania,Pennsylvania,,10-14,Yes,Yes,$100-$199,No,No,"Hockey,Ncaa Wrestling",Buffalo Bills,Pat Freiermuth
+21-25,Male,Detroit Lions,Michigan,Maine,,15-19,Yes,Yes,$300-$499,Yes,Yes,"Baseball,Basketball,Nascar And Other Motorsports",Buffalo Bills,Matt Stafford
+26-30,Male,Denver Broncos,Colorado,Colorado,,20-24,Yes,Yes,$100-$199,Yes,Yes,Basketball,Buffalo Bills,Melvin Gordon
+26-30,Male,New England Patriots,Massachusetts,New York,,15-19,Yes,Yes,$0-$49,Yes,Yes,"Baseball,Hockey",Cincinnati Bengals,Mac Jones
+16-20,Male,Denver Broncos,Colorado,Colorado,,0-2,No,No,$0-$49,Yes,Yes,Soccer,Buffalo Bills,Von Miller
+31-35,Male,New England Patriots,Massachusetts,California,,15-19,Yes,Yes,$300-$499,Yes,Yes,None,Buffalo Bills,Tom Brady
+21-25,Male,Los Angeles Chargers,California,California,,10-14,Yes,Yes,$100-$199,Yes,Yes,Basketball,Los Angeles Chargers,Justin Herbert
+31-35,Male,Pittsburgh Steelers,Pennsylvania,Connecticut,,20-24,Yes,No,$0-$49,Yes,Yes,Golf,Buffalo Bills,Tj Watt
+41-50,Male,New England Patriots,Massachusetts,North Carolina,,20-24,No,Yes,$100-$199,No,No,"Baseball,Golf",Buffalo Bills,Matthew Slater
+26-30,Male,Minnesota Vikings,Minnesota,New York,,15-19,Yes,Yes,$0-$49,Yes,No,"Baseball,Basketball,Hockey,Golf",Buffalo Bills,Eric Kendricks
+31-35,Male,Seattle Seahawks,Washington,Washington,,15-19,Yes,No,$0-$49,Yes,No,"Baseball,Basketball",Los Angeles Chargers,
+21-25,Male,Denver Broncos,Colorado,Colorado,,20-24,Yes,Yes,$0-$49,No,No,Basketball,Denver Broncos,
+21-25,Male,Los Angeles Chargers,California,South Carolina,,10-14,No,Yes,$100-$199,Yes,Yes,None,Buffalo Bills,Justin Herbert
+36-40,Male,Pittsburgh Steelers,Pennsylvania,Other,Colombia,25+,Yes,Yes,$100-$199,Yes,Yes,Rugby,Buffalo Bills,Cam Heyward
+26-30,Male,Cincinnati Bengals,Ohio,Vermont,,10-14,Yes,No,$0-$49,No,No,None,Cincinnati Bengals,Joe Burrow
+31-35,Male,Denver Broncos,Colorado,Montana,,25+,Yes,Yes,$50-$99,No,Yes,None,Denver Broncos,
+16-20,Female,Detroit Lions,Michigan,Wisconsin,,15-19,Yes,Yes,$100-$199,No,No,"Baseball,Hockey",Buffalo Bills,Jamaal Williams
+31-35,Male,Minnesota Vikings,Minnesota,Minnesota,,20-24,Yes,Yes,$50-$99,No,Yes,"Baseball,Basketball,Hockey,Tennis,Golf",Buffalo Bills,Justin Jefferson
+26-30,Male,Cincinnati Bengals,Ohio,Colorado,,20-24,Yes,No,$300-$499,Yes,Yes,"Baseball,Hockey",Cincinnati Bengals,Evan Mcpherson
+31-35,Male,Miami Dolphins,Florida,Texas,,20-24,Yes,Yes,$100-$199,No,Yes,None,Miami Dolphins,Christian Wilkins
+21-25,Male,Los Angeles Chargers,California,Texas,,10-14,No,Yes,$50-$99,Yes,Yes,Soccer,Los Angeles Chargers,Justin Herbert
+21-25,Male,Miami Dolphins,Florida,Arkansas,,15-19,Yes,Yes,$50-$99,Yes,No,"Baseball,Basketball",Buffalo Bills,Tua Tagovailoa
+26-30,Male,New England Patriots,Massachusetts,Other,Canada,15-19,No,Yes,$100-$199,No,Yes,"Baseball,Basketball,Hockey",Tampa Bay Buccaneers,Tom Brady
+36-40,Female,New England Patriots,Massachusetts,Massachusetts,,20-24,Yes,Yes,$50-$99,No,No,"Baseball,Hockey",Tampa Bay Buccaneers,Jake Bailey
+21-25,Male,Atlanta Falcons,Georgia,Florida,,15-19,No,Yes,$0-$49,Yes,Yes,None,Buffalo Bills,Kyle Pitts
+16-20,Female,San Francisco 49ers,California,California,,15-19,Yes,Yes,$0-$49,No,No,"Baseball,Basketball",San Francisco 49ers,Trey Lance
+41-50,Male,Pittsburgh Steelers,Pennsylvania,New Jersey,,25+,Yes,Yes,$200-$299,Yes,Yes,"Basketball,Hockey,Tennis",Pittsburgh Steelers,Chris Boswell
+51+,Male,Miami Dolphins,Florida,Florida,,25+,Yes,No,$0-$49,No,No,"Baseball,Basketball,Hockey,Tennis,Golf",Miami Dolphins,
+Under 16,Male,Cincinnati Bengals,Ohio,Kentucky,,6-9,Yes,Yes,$300-$499,No,Yes,"Baseball,Golf,Bowling",Buffalo Bills,Jesse Bates Iii
+36-40,Male,Pittsburgh Steelers,Pennsylvania,Pennsylvania,,25+,Yes,Yes,$100-$199,No,Yes,Hockey,Buffalo Bills,Derrick Henry
+21-25,Male,Pittsburgh Steelers,Pennsylvania,Pennsylvania,,0-2,Yes,No,$0-$49,Yes,No,Basketball,Buffalo Bills,Tj Watt
+36-40,Male,Cincinnati Bengals,Ohio,Colorado,,15-19,Yes,No,$200-$299,Yes,Yes,"Baseball,Basketball",Cincinnati Bengals,Joe Burrow
+16-20,Male,New England Patriots,Massachusetts,Massachusetts,,6-9,Yes,Yes,$0-$49,No,No,"Baseball,Basketball,Formula 1",Kansas City Chiefs,Mac Jones
+21-25,Male,Pittsburgh Steelers,Pennsylvania,Florida,,10-14,Yes,No,$0-$49,Yes,Yes,"Basketball,Hockey,Golf,Mma",Buffalo Bills,Cam Heyward
+31-35,Male,Minnesota Vikings,Minnesota,Other,New Zealand,6-9,No,Yes,$0-$49,No,No,None,Buffalo Bills,Adam Thielen
+26-30,Female,New England Patriots,Massachusetts,Nebraska,,15-19,Yes,Yes,$100-$199,No,Yes,"Baseball,Basketball,Hockey,Volleyball",Buffalo Bills,Matthew Slater
+16-20,Female,Baltimore Ravens,Maryland,Florida,,3-5,Yes,Yes,$50-$99,Yes,No,Archery,Buffalo Bills,Lamar Jackson
+16-20,Male,Dallas Cowboys,Texas,Virginia,,10-14,No,Yes,$50-$99,No,Yes,"Baseball,Basketball,Hockey,Nascar",Buffalo Bills,Dak Prescott
+51+,Male,Minnesota Vikings,Minnesota,Minnesota,,25+,Yes,Yes,$100-$199,Yes,No,"Baseball,Hockey",Minnesota Vikings,
+31-35,Male,Minnesota Vikings,Minnesota,New York,,25+,Yes,Yes,$0-$49,No,Yes,"Baseball,Basketball",Minnesota Vikings,
+16-20,Male,Detroit Lions,Michigan,California,,6-9,No,Yes,$0-$49,No,Yes,Baseball,Buffalo Bills,Amon-Ra St. Brown
+Under 16,Male,Atlanta Falcons,Georgia,Prefer not to answer,,6-9,No,Yes,$100-$199,Yes,No,Basketball,Buffalo Bills,Matt Ryan
+21-25,Male,Baltimore Ravens,Maryland,North Carolina,,10-14,Yes,Yes,$300-$499,No,Yes,"Basketball,Tennis,Soccer",Baltimore Ravens,Rashod Bateman
+41-50,Male,New England Patriots,Massachusetts,Maryland,,25+,Yes,Yes,$300-$499,Yes,Yes,"Baseball,Basketball,Hockey",New England Patriots,Devin Mccourty
+26-30,Male,Minnesota Vikings,Minnesota,Minnesota,,20-24,Yes,Yes,$50-$99,Yes,Yes,"Basketball,Hockey,Golf",Buffalo Bills,Justin Jefferson
+16-20,Male,Atlanta Falcons,Georgia,Illinois,,10-14,Yes,Yes,$100-$199,No,Yes,"Baseball,Basketball,Hockey,Tennis,Golf",Atlanta Falcons,Aj Terrell
+31-35,Male,Cincinnati Bengals,Ohio,Ohio,,25+,Yes,Yes,$50-$99,No,Yes,Hockey,Cincinnati Bengals,Ja'Marr Chase
+16-20,Male,New England Patriots,Massachusetts,Arizona,,6-9,Yes,Yes,$100-$199,No,Yes,"Baseball,Basketball",Buffalo Bills,Mac Jones
+26-30,Male,Baltimore Ravens,Maryland,Indiana,,15-19,No,Yes,$50-$99,Yes,Yes,None,Baltimore Ravens,Marlon Humphrey
+41-50,Male,New England Patriots,Massachusetts,California,,25+,No,No,$0-$49,Yes,No,"Baseball,Basketball,Tennis",Kansas City Chiefs,
+36-40,Male,Dallas Cowboys,Texas,Virginia,,25+,No,Yes,$0-$49,No,Yes,"Baseball,Basketball,Tennis,Golf",Buffalo Bills,
+31-35,Male,Minnesota Vikings,Minnesota,Oregon,,25+,Yes,Yes,$100-$199,Yes,Yes,"Basketball,Soccer",Baltimore Ravens,Kirk Cousins
+26-30,Female,Los Angeles Chargers,California,California,,10-14,Yes,Yes,$1000+,Yes,Yes,"Baseball,Tennis,Soccer",Los Angeles Chargers,Justin Herbert
+21-25,Male,Minnesota Vikings,Minnesota,Minnesota,,15-19,No,Yes,$0-$49,Yes,Yes,"Baseball,Basketball,Hockey",Los Angeles Chargers,Harrison Smith
+31-35,Male,Los Angeles Chargers,California,Tennessee,,10-14,Yes,Yes,$100-$199,Yes,No,None,Los Angeles Chargers,Derwin James
+31-35,Male,Los Angeles Rams,California,Arizona,,20-24,No,No,$0-$49,Yes,Yes,"Baseball,Basketball,Hockey",Buffalo Bills,Cooper Kupp
+16-20,Male,Washington Commanders,Maryland,New Jersey,,6-9,Yes,Yes,$50-$99,No,No,"Baseball,Basketball,Nascar, Formula One",Tampa Bay Buccaneers,Terry Mclaurin
+21-25,Male,Minnesota Vikings,Minnesota,Alaska,,10-14,No,Yes,$0-$49,No,No,None,Tampa Bay Buccaneers,
+16-20,Male,Los Angeles Chargers,California,Virginia,,3-5,Yes,Yes,$0-$49,No,Yes,"Basketball,Hockey,Golf",Los Angeles Chargers,
+31-35,Male,New England Patriots,Massachusetts,Massachusetts,,25+,Yes,Yes,$100-$199,Yes,Yes,"Baseball,Basketball,Hockey",Buffalo Bills,Tom Brady
+41-50,Male,Washington Commanders,Maryland,New Jersey,,25+,Yes,Yes,$100-$199,Yes,Yes,Basketball,Buffalo Bills,Terry Mclaurin
+21-25,Male,Miami Dolphins,Florida,Ohio,,0-2,No,Yes,$300-$499,Yes,Yes,Hockey,Buffalo Bills,Jevon Holland
+21-25,Male,New England Patriots,Massachusetts,Florida,,15-19,Yes,Yes,$0-$49,Yes,Yes,"Basketball,Soccer, Cricket",Baltimore Ravens,Gardner Minshew Ii
+31-35,Male,Chicago Bears,Illinois,Iowa,,25+,Yes,Yes,$100-$199,No,Yes,"Baseball,Hockey",Buffalo Bills,
+26-30,Male,Tampa Bay Buccaneers,Florida,Wisconsin,,20-24,Yes,Yes,$300-$499,No,No,"Baseball,Pro Wrestling",Tampa Bay Buccaneers,Lavonte David
+16-20,Male,Atlanta Falcons,Georgia,South Carolina,,3-5,No,No,$0-$49,No,No,"Baseball,Basketball,Hockey,Soccer, Mma, Boxing,Esports",Buffalo Bills,Julio Jones
+21-25,Male,New England Patriots,Massachusetts,Kentucky,,15-19,No,No,$0-$49,Yes,No,"Baseball,Hockey,Golf",Buffalo Bills,Mac Jones
+16-20,Male,New England Patriots,Massachusetts,Washington,,0-2,No,Yes,$0-$49,No,Yes,Baseball,New England Patriots,
+16-20,Male,New England Patriots,Massachusetts,Idaho,,10-14,No,Yes,$0-$49,No,Yes,Basketball,Tampa Bay Buccaneers,Tom Brady
+26-30,Prefer not to say,Buffalo Bills,New York,Florida,,25+,Yes,Yes,$500-$999,Yes,Yes,"Basketball,Hockey",New York Jets,Nick Foles
+31-35,Male,Detroit Lions,Michigan,Michigan,,25+,Yes,No,$0-$49,No,Yes,Baseball,Tampa Bay Buccaneers,Tom Brady
+26-30,Male,Los Angeles Chargers,California,Hawaii,,3-5,No,No,$0-$49,No,No,Soccer,Buffalo Bills,
+21-25,Male,Miami Dolphins,Florida,Other,Austria,0-2,No,No,$0-$49,No,No,"Tennis,Soccer, Cycling",Buffalo Bills,Tua Tagovailoa
+21-25,Male,Denver Broncos,Colorado,Washington,,6-9,No,Yes,$200-$299,Yes,No,None,Buffalo Bills,Russell Wilson
+16-20,Male,Los Angeles Chargers,California,Texas,,10-14,No,Yes,$100-$199,No,Yes,"Baseball,Basketball,Hockey,Motorsports (Nascar, F1, Indycar)",Buffalo Bills,Justin Herbert
+21-25,Male,Denver Broncos,Colorado,Oklahoma,,10-14,Yes,Yes,$200-$299,No,Yes,Basketball,Denver Broncos,Justin Simmons
+16-20,Male,Atlanta Falcons,Georgia,Georgia,,3-5,Yes,Yes,$100-$199,Yes,Yes,Basketball,Atlanta Falcons,Aj Terrell
+31-35,Male,Tennessee Titans,Tennessee,Texas,,20-24,No,Yes,$50-$99,Yes,No,Basketball,Buffalo Bills,Derrick Henry
+31-35,Male,Los Angeles Rams,California,Other,North Macedonia,6-9,No,Yes,$100-$199,No,No,"Handball, Formula 1",Buffalo Bills,Cooper Kupp
+41-50,Male,Detroit Lions,Michigan,Indiana,,25+,Yes,Yes,$200-$299,No,No,"Baseball,Basketball,Hockey",Buffalo Bills,Matt Stafford
+16-20,Male,Minnesota Vikings,Minnesota,Other,UK,3-5,Yes,No,$0-$49,Yes,No,"Tennis,Soccer, Rugby (Union), Cricket",Buffalo Bills,Harrison Smith
+26-30,Female,New Orleans Saints,Louisiana,Virginia,,10-14,Yes,Yes,$0-$49,Yes,No,Basketball,Buffalo Bills,
+Under 16,Male,Cincinnati Bengals,Ohio,Ohio,,6-9,Yes,Yes,$300-$499,No,Yes,Hockey,Cincinnati Bengals,Ja'Marr Chase
+26-30,Male,New England Patriots,Massachusetts,Connecticut,,15-19,No,No,$0-$49,No,No,"Basketball,Boxing",Tampa Bay Buccaneers,Tom Brady
+41-50,Male,Denver Broncos,Colorado,Other,UK,25+,Yes,Yes,$100-$199,Yes,Yes,None,Buffalo Bills,Justin Simmons
+21-25,Male,New Orleans Saints,Louisiana,Kentucky,,20-24,Yes,No,$0-$49,No,No,None,Buffalo Bills,
+16-20,Male,Seattle Seahawks,Washington,Other,Australia,6-9,No,Yes,$0-$49,No,No,"Rugby League, Rugby Union, College Football, Soccer",Los Angeles Chargers,Jordyn Brooks
+41-50,Male,Baltimore Ravens,Maryland,Other,Scotland,15-19,No,Yes,$100-$199,Yes,Yes,"Soccer, Cricket, Mma, Boxing,",San Francisco 49ers,Lamar Jackson
+31-35,Male,Pittsburgh Steelers,Pennsylvania,Other,Germany,10-14,No,Yes,$0-$49,Yes,No,Formula 1,Buffalo Bills,Tj Watt
+31-35,Male,Los Angeles Chargers,California,Other,Canada,20-24,Yes,Yes,$100-$199,Yes,Yes,"Baseball,Basketball,Hockey",Los Angeles Chargers,Justin Herbert
+21-25,Male,Baltimore Ravens,Maryland,Georgia,,10-14,No,Yes,$0-$49,No,Yes,Basketball,Buffalo Bills,Lamar Jackson
+21-25,Male,New England Patriots,Massachusetts,Ohio,,15-19,Yes,Yes,$1000+,Yes,Yes,"Baseball,Basketball",Buffalo Bills,Mac Jones
+26-30,Male,New England Patriots,Massachusetts,Massachusetts,,20-24,No,Yes,$0-$49,No,Yes,Disc Golf,Buffalo Bills,Matthew Judon
+31-35,Male,Baltimore Ravens,Maryland,Florida,,15-19,Yes,Yes,$0-$49,No,Yes,None,Buffalo Bills,Lamar Jackson
+31-35,Male,Minnesota Vikings,Minnesota,Pennsylvania,,25+,Yes,Yes,$100-$199,Yes,No,"Basketball,Hockey,Ufc",Buffalo Bills,Harrison Smith
+16-20,Male,New Orleans Saints,Louisiana,Louisiana,,10-14,Yes,Yes,$100-$199,Yes,No,None,New Orleans Saints,Joe Burrow
+Under 16,Male,Dallas Cowboys,Texas,New Jersey,,3-5,No,Yes,$0-$49,No,Yes,Baseball,Buffalo Bills,Micah Parsons
+21-25,Male,New England Patriots,Massachusetts,New York,,10-14,Yes,Yes,$100-$199,No,Yes,Golf,New England Patriots,Cole Strange
+26-30,Male,Minnesota Vikings,Minnesota,Other,Germany,10-14,No,Yes,$0-$49,No,No,"Basketball,Track And Field",Buffalo Bills,Dalvin Cook
+26-30,Male,Pittsburgh Steelers,Pennsylvania,Maryland,,15-19,Yes,Yes,$100-$199,Yes,Yes,Hockey,Indianapolis Colts,Diontae Johnson
+26-30,Male,New England Patriots,Massachusetts,Rhode Island,,15-19,No,No,$0-$49,No,Yes,"Baseball,Basketball,Hockey",New England Patriots,Matthew Slater
+21-25,Male,Minnesota Vikings,Minnesota,Iowa,,10-14,Yes,Yes,$0-$49,No,Yes,Basketball,Los Angeles Chargers,Justin Jefferson
+16-20,Female,Cincinnati Bengals,Ohio,Other,Finland,0-2,No,No,$0-$49,No,No,"Tennis,Soccer",Kansas City Chiefs,Joe Burrow
+26-30,Male,Denver Broncos,Colorado,Florida,,15-19,Yes,Yes,$50-$99,No,Yes,"Baseball,Basketball,Golf",Buffalo Bills,Von Miller
+51+,Male,Los Angeles Chargers,California,California,,25+,Yes,Yes,$100-$199,Yes,No,"Hockey,Cycling",Los Angeles Chargers,Austin Ekeler
+31-35,Male,Tennessee Titans,Tennessee,Louisiana,,25+,Yes,Yes,$50-$99,Yes,Yes,Basketball,Tennessee Titans,Derrick Henry
+26-30,Female,New England Patriots,Massachusetts,New York,,10-14,No,Yes,$0-$49,No,No,None,New England Patriots,
+21-25,Male,New England Patriots,Massachusetts,Massachusetts,,10-14,No,Yes,$0-$49,No,Yes,"Baseball,Basketball",Kansas City Chiefs,Matthew Slater
+36-40,Male,Los Angeles Chargers,California,California,,25+,Yes,No,$0-$49,No,No,Soccer,Los Angeles Chargers,Justin Herbert
+26-30,Male,Denver Broncos,Colorado,Missouri,,15-19,No,Yes,$200-$299,Yes,Yes,Basketball,Denver Broncos,Pat Surtain Ii
+36-40,Male,Carolina Panthers,North Carolina,North Carolina,,25+,Yes,Yes,$200-$299,No,Yes,Basketball,Carolina Panthers,Christian Mccaffrey
+41-50,Male,Dallas Cowboys,Texas,Texas,,10-14,No,Yes,$100-$199,Yes,No,None,Green Bay Packers,
+41-50,Male,Tennessee Titans,Tennessee,Georgia,,25+,Yes,Yes,$0-$49,Yes,No,None,Tampa Bay Buccaneers,Derrick Henry
+16-20,Male,Atlanta Falcons,Georgia,Georgia,,6-9,No,No,$0-$49,No,Yes,"Baseball,Basketball",Buffalo Bills,Tom Brady
+26-30,Male,Baltimore Ravens,Maryland,Arizona,,15-19,Yes,Yes,$50-$99,No,No,Baseball,Buffalo Bills,Justin Tucker
+51+,Female,Los Angeles Rams,California,California,,25+,Yes,Yes,$200-$299,No,No,"Baseball,Basketball,Hockey,Tennis,Golf",Buffalo Bills,Patrick Mahomes
+31-35,Male,Los Angeles Chargers,California,Oregon,,25+,Yes,No,$0-$49,No,No,"Baseball,Basketball",Los Angeles Chargers,Justin Herbert
+41-50,Male,Tampa Bay Buccaneers,Florida,Florida,,25+,Yes,Yes,$300-$499,Yes,Yes,Hockey,Tampa Bay Buccaneers,Tom Brady
+21-25,Male,New England Patriots,Massachusetts,Florida,,15-19,Yes,Yes,$500-$999,No,Yes,"Basketball,Hockey",Tampa Bay Buccaneers,Devin Mccourty
+31-35,Male,Los Angeles Chargers,California,California,,10-14,Yes,Yes,$500-$999,Yes,Yes,Basketball,Buffalo Bills,Austin Ekeler
+21-25,Male,Tampa Bay Buccaneers,Florida,North Carolina,,15-19,Yes,Yes,$0-$49,No,No,"Baseball,Basketball,Hockey,Esports",Tampa Bay Buccaneers,Mike Evans
+Under 16,Male,Baltimore Ravens,Maryland,Virginia,,6-9,Yes,Yes,$0-$49,No,Yes,Mixed Martial Arts,Kansas City Chiefs,Justin Tucker
+21-25,Male,New England Patriots,Massachusetts,Other,Canada,6-9,No,Yes,$50-$99,Yes,No,Hockey,Las Vegas Raiders,Tom Brady
+21-25,Male,New England Patriots,Massachusetts,Other,Canada,10-14,No,Yes,$50-$99,Yes,No,"Basketball,Golf",Buffalo Bills,Tom Brady
+26-30,Male,Tampa Bay Buccaneers,Florida,Florida,,15-19,Yes,Yes,$0-$49,No,No,Hockey,Tampa Bay Buccaneers,
+36-40,Male,Tampa Bay Buccaneers,Florida,Florida,,25+,Yes,Yes,$50-$99,Yes,Yes,Hockey,Tampa Bay Buccaneers,Lavonte David
+21-25,Male,Tampa Bay Buccaneers,Florida,Michigan,,15-19,Yes,Yes,$50-$99,No,No,Baseball,Tampa Bay Buccaneers,Mike Evans
+21-25,Male,New England Patriots,Massachusetts,Rhode Island,,15-19,Yes,No,$0-$49,No,No,Basketball,Buffalo Bills,Lamar Jackson
+21-25,Male,New England Patriots,Massachusetts,Other,Germany,3-5,No,Yes,$0-$49,Yes,Yes,"Soccer (Only Europe), Darts, Chess",Buffalo Bills,Kendrick Bourne
+51+,Male,Kansas City Chiefs,Missouri,California,,25+,No,No,$50-$99,No,No,"Basketball,Hockey,Olympics Stuff",Buffalo Bills,Patrick Mahomes
+31-35,Female,Denver Broncos,Colorado,California,,25+,Yes,Yes,$50-$99,No,No,"Baseball,Basketball,Hockey",Buffalo Bills,Von Miller
+26-30,Male,Los Angeles Rams,California,California,,15-19,No,No,$0-$49,No,Yes,"Baseball,Basketball,Boxing",Los Angeles Rams,Aaron Donald
+16-20,Male,Tennessee Titans,Tennessee,Tennessee,,6-9,Yes,Yes,Prefer not to answer,No,No,Hockey,Los Angeles Chargers,Justin Jefferson
+16-20,Male,Minnesota Vikings,Minnesota,Minnesota,,6-9,Yes,Yes,$50-$99,Yes,Yes,"Basketball,Hockey,Golf",Minnesota Vikings,Justin Jefferson
+21-25,Male,New England Patriots,Massachusetts,North Carolina,,20-24,Yes,Yes,$50-$99,Yes,Yes,"Baseball,Basketball,Hockey,Golf",New England Patriots,Mac Jones
